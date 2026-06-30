@@ -1,0 +1,11 @@
+*.exe
+*.o
+*.obj
+*.pdb
+.vscode
+bin/
+obj/
+*.depend
+*.layout
+#active si vous utiliser Code::Blocks
+*.cbp 
