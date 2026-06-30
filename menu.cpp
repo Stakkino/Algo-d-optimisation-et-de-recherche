@@ -7,12 +7,13 @@ int main() {
     int choix;
 
     do {
-        cout << "\n============================" << endl;
-        cout << "   CHOISIR UN TYPE D\'ALGO"     << endl;
-        cout << " 1. Glouton"                    << endl;
-        cout << " 2. Programmation Dynamique"    << endl;
-        cout << " 3. Backtracking"               << endl;
-        cout << " 4. Branch and Bound"           << endl;
+        cout << "=========================================" << endl;
+        cout << "      CHOISIR UN TYPE D\'ALGORITHME      " << endl;
+        cout << " 1. Sélection du projet (Méthode Glouton)" << endl;
+        cout << " 2. Sélection du projet (Prog Dynamique)"  << endl;
+        cout << " 3. Planification d'étude (Prog Dynamique)"<< endl;
+        cout << " 4. Backtracking"               << endl;
+        cout << " 5. Branch and Bound"           << endl;
         cout << " 0. Sortir"                     << endl;
         cout << "\nVotre choix : ";
         cin >> choix;

@@ -1,7 +1,9 @@
 #ifndef ALGO_H
 #define ALGO_H
 
-void algoglouton();
+void selectglouton();
+void mitady();
+void selectprodyna();
 void prodynamique();
 void recherche();
 void backtracking();
